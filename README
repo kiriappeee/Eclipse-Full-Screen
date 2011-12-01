@@ -1,0 +1,5 @@
+Full screen for eclipse is an open source plugin which enables users to move into full screen mode when using Eclipse.
+
+This project has been mirrored here on Github for the sole purpose of ensuring that the code stays alive. Within Google code the most recent repos (v30) will give an empty SVN checkout. The last known change that gives all the (necessary?) files is in v28.
+
+Furthermore I will try and use this source to see if any of it is convertible for Aptana.
